@@ -44,6 +44,12 @@ A standalone ESP32 physical control panel for Home Assistant with rotary encoder
 
 ![ESP32 MQTT Control Ecosystem](ESP32%20MQTT%20Control%20Ecosystem-2026-05-08-175636.png)
 
+## Project Gallery
+
+![Control Panel Image 1](hardware/images/Image-1.jpeg)
+
+![Control Panel Image 2](hardware/images/Image-2.jpeg)
+
 ## Software Stack
 
 | Layer | Technology | Version |
